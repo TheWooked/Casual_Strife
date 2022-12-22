@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="control_menu.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="control_confirm instance 10000" x="5" y="5" width="286" height="86" pivotX="140.55" pivotY="40.75"/>
+	<SubTexture name="control_selected instance 10000" x="5" y="111" width="286" height="87" pivotX="140.55" pivotY="40.75"/>
+	<SubTexture name="control_static instance 10000" x="5" y="218" width="282" height="83" pivotX="140.55" pivotY="40.75"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="start_button_idle.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="start confirm0000" x="5" y="5" width="663" height="141" pivotX="328.75" pivotY="68.6" frameX="0" frameY="-1" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0001" x="5" y="166" width="663" height="141" frameX="0" frameY="-1" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0002" x="5" y="166" width="663" height="141" frameX="0" frameY="-1" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0003" x="5" y="327" width="584" height="134" frameX="-38" frameY="-3" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0004" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0005" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0006" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0007" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0008" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0009" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0010" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0011" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0012" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0013" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0014" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0015" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0016" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0017" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0018" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start confirm0019" x="5" y="481" width="568" height="140" frameX="-46" frameY="0" frameWidth="663" frameHeight="142"/>
+	<SubTexture name="start_static0000" x="5" y="641" width="565" height="137" pivotX="282.75" pivotY="68.6"/>
+</TextureAtlas>

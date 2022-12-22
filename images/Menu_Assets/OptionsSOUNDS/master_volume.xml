@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="master_volume.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="master vol selected0000" x="5" y="5" width="313" height="123" pivotX="156.85" pivotY="61.2"/>
+	<SubTexture name="master vol static0000" x="5" y="148" width="313" height="123" pivotX="156.85" pivotY="61.2"/>
+</TextureAtlas>

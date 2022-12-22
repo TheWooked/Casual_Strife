@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hit_effect1.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="hit effect 20000" x="5" y="5" width="178" height="147" pivotX="641.75" pivotY="-73.5" frameX="-32" frameY="-24" frameWidth="210" frameHeight="178"/>
+	<SubTexture name="hit effect 20001" x="5" y="172" width="82" height="173" frameX="-7" frameY="-3" frameWidth="210" frameHeight="178"/>
+	<SubTexture name="hit effect 20002" x="107" y="172" width="42" height="178" frameX="0" frameY="0" frameWidth="210" frameHeight="178"/>
+	<SubTexture name="hit effect 20003" x="169" y="172" width="0" height="0" frameX="-641" frameY="73" frameWidth="210" frameHeight="178"/>
+</TextureAtlas>

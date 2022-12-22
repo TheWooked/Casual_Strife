@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dust_run.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dust run0000" x="12" y="12" width="313" height="159" pivotX="777.6" pivotY="-233.5"/>
+	<SubTexture name="dust run0001" x="369" y="12" width="313" height="159"/>
+	<SubTexture name="dust run0002" x="12" y="215" width="313" height="159"/>
+	<SubTexture name="dust run0003" x="369" y="215" width="313" height="159"/>
+	<SubTexture name="dust run0004" x="12" y="418" width="313" height="159"/>
+	<SubTexture name="dust run0005" x="369" y="418" width="313" height="159"/>
+	<SubTexture name="dust run0006" x="369" y="418" width="313" height="159"/>
+</TextureAtlas>

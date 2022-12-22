@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="music_menu.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="music vol selected0000" x="5" y="5" width="283" height="109" pivotX="141.1" pivotY="54.05"/>
+	<SubTexture name="music vol static0000" x="5" y="134" width="283" height="109" pivotX="141.1" pivotY="54.05"/>
+</TextureAtlas>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GO_Marker.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="go intro0000" x="5" y="5" width="620" height="146" pivotX="308.5" pivotY="130.05" frameX="0" frameY="-116" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0001" x="645" y="5" width="571" height="144" frameX="-23" frameY="-118" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0002" x="1236" y="5" width="473" height="225" frameX="-72" frameY="-37" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0003" x="5" y="250" width="473" height="225" frameX="-72" frameY="-37" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0004" x="498" y="250" width="431" height="252" frameX="-93" frameY="-10" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0005" x="949" y="250" width="419" height="259" frameX="-99" frameY="-3" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0006" x="1388" y="250" width="411" height="172" frameX="-103" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0007" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0008" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0009" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0010" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0011" x="438" y="529" width="425" height="261" frameX="-90" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0012" x="883" y="529" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0013" x="1316" y="529" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0014" x="5" y="810" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0015" x="438" y="810" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0016" x="871" y="810" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0017" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0018" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0019" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0020" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0021" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0022" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0023" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0024" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0025" x="438" y="529" width="425" height="261" frameX="-90" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0026" x="883" y="529" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0027" x="1316" y="529" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0028" x="5" y="810" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0029" x="438" y="810" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0030" x="871" y="810" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0031" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0032" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0033" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0034" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0035" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0036" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0037" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0038" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0039" x="438" y="529" width="425" height="261" frameX="-90" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0040" x="883" y="529" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0041" x="1316" y="529" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0042" x="5" y="810" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0043" x="438" y="810" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0044" x="871" y="810" width="413" height="261" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0045" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0046" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0047" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0048" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0049" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go intro0050" x="5" y="529" width="413" height="170" frameX="-102" frameY="-1" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0000" x="5" y="529" width="413" height="170" pivotX="308.5" pivotY="130.05" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0001" x="5" y="529" width="413" height="170" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0002" x="5" y="529" width="413" height="170" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0003" x="1304" y="810" width="425" height="261"/>
+	<SubTexture name="go loop0004" x="883" y="529" width="413" height="261" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0005" x="1316" y="529" width="413" height="261" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0006" x="5" y="810" width="413" height="261" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0007" x="438" y="810" width="413" height="261" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0008" x="871" y="810" width="413" height="261" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0009" x="5" y="529" width="413" height="170" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0010" x="5" y="529" width="413" height="170" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0011" x="5" y="529" width="413" height="170" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0012" x="5" y="529" width="413" height="170" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+	<SubTexture name="go loop0013" x="5" y="529" width="413" height="170" frameX="-12" frameY="0" frameWidth="620" frameHeight="262"/>
+</TextureAtlas>

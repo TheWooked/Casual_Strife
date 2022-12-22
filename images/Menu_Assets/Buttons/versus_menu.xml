@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="versus_menu.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="versus_confirm instance 10000" x="5" y="5" width="286" height="86" pivotX="140.55" pivotY="40.75"/>
+	<SubTexture name="versus_selected instance 10000" x="5" y="111" width="286" height="86" pivotX="140.55" pivotY="40.75"/>
+	<SubTexture name="versus_static instance 10000" x="5" y="217" width="282" height="82" pivotX="140.55" pivotY="40.75"/>
+</TextureAtlas>
