@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sfx_menu.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="SFX vol0000" x="5" y="5" width="211" height="103" pivotX="105.15" pivotY="51.55"/>
+	<SubTexture name="SFX vol selected0000" x="5" y="128" width="211" height="103" pivotX="105.15" pivotY="51.55"/>
+</TextureAtlas>

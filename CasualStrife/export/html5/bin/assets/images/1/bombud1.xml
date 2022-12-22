@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bombud1.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="bombud death0000" x="5" y="5" width="343" height="310" pivotX="458.65" pivotY="-153.5" frameX="-3" frameY="-6" frameWidth="350" frameHeight="325"/>
+	<SubTexture name="bombud death0001" x="368" y="5" width="347" height="315" frameX="-2" frameY="-2" frameWidth="350" frameHeight="325"/>
+	<SubTexture name="bombud death0002" x="5" y="340" width="347" height="315" frameX="-2" frameY="-2" frameWidth="350" frameHeight="325"/>
+	<SubTexture name="bombud death0003" x="372" y="340" width="350" height="325"/>
+	<SubTexture name="bombud death0004" x="372" y="340" width="350" height="325"/>
+	<SubTexture name="bombud death0005" x="742" y="340" width="0" height="0" frameX="-458" frameY="153" frameWidth="350" frameHeight="325"/>
+	<SubTexture name="bombud death0006" x="762" y="340" width="0" height="0" frameX="-458" frameY="153" frameWidth="350" frameHeight="325"/>
+	<SubTexture name="bombud death0007" x="762" y="340" width="0" height="0" frameX="-458" frameY="153" frameWidth="350" frameHeight="325"/>
+	<SubTexture name="bombud dying0000" x="782" y="340" width="147" height="184" pivotX="334.4" pivotY="-246.05" frameX="-2" frameY="-1" frameWidth="150" frameHeight="185"/>
+	<SubTexture name="bombud dying0001" x="782" y="340" width="147" height="184" frameX="-2" frameY="-1" frameWidth="150" frameHeight="185"/>
+	<SubTexture name="bombud dying0002" x="5" y="685" width="150" height="184" frameX="0" frameY="0" frameWidth="150" frameHeight="185"/>
+	<SubTexture name="bombud dying0003" x="5" y="685" width="150" height="184" frameX="0" frameY="0" frameWidth="150" frameHeight="185"/>
+	<SubTexture name="bombud idle0000" x="175" y="685" width="233" height="183" pivotX="367.95" pivotY="-238.8" frameX="0" frameY="-8" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0001" x="428" y="685" width="233" height="183" frameX="0" frameY="-8" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0002" x="681" y="685" width="229" height="184" frameX="-3" frameY="-7" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0003" x="5" y="889" width="229" height="184" frameX="-3" frameY="-7" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0004" x="254" y="889" width="216" height="189" frameX="-11" frameY="-1" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0005" x="490" y="889" width="216" height="189" frameX="-11" frameY="-1" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0006" x="726" y="889" width="211" height="190" frameX="-14" frameY="0" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0007" x="5" y="1099" width="211" height="190" frameX="-14" frameY="0" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0008" x="236" y="1099" width="219" height="186" frameX="-9" frameY="-4" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0009" x="475" y="1099" width="219" height="186" frameX="-9" frameY="-4" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0010" x="236" y="1099" width="219" height="186" frameX="-9" frameY="-4" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0011" x="714" y="1099" width="222" height="186" frameX="-7" frameY="-5" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud idle0012" x="5" y="1309" width="222" height="186" frameX="-7" frameY="-5" frameWidth="233" frameHeight="191"/>
+	<SubTexture name="bombud walk0000" x="247" y="1309" width="197" height="182" pivotX="352.35" pivotY="-234.25"/>
+	<SubTexture name="bombud walk0001" x="247" y="1309" width="197" height="182"/>
+	<SubTexture name="bombud walk0002" x="464" y="1309" width="192" height="181" frameX="-3" frameY="-1" frameWidth="197" frameHeight="182"/>
+	<SubTexture name="bombud walk0003" x="464" y="1309" width="192" height="181" frameX="-3" frameY="-1" frameWidth="197" frameHeight="182"/>
+	<SubTexture name="bombud walk0004" x="676" y="1309" width="160" height="177" frameX="-26" frameY="-3" frameWidth="197" frameHeight="182"/>
+	<SubTexture name="bombud walk0005" x="856" y="1309" width="151" height="175" frameX="-29" frameY="-5" frameWidth="197" frameHeight="182"/>
+	<SubTexture name="bombud walk0006" x="856" y="1309" width="151" height="175" frameX="-29" frameY="-5" frameWidth="197" frameHeight="182"/>
+	<SubTexture name="bombud walk0007" x="5" y="1515" width="145" height="175" frameX="-36" frameY="-5" frameWidth="197" frameHeight="182"/>
+	<SubTexture name="bombud walk0008" x="5" y="1515" width="145" height="175" frameX="-36" frameY="-5" frameWidth="197" frameHeight="182"/>
+	<SubTexture name="bombud walk0009" x="170" y="1515" width="154" height="181" frameX="-32" frameY="-1" frameWidth="197" frameHeight="182"/>
+	<SubTexture name="bombud walk0010" x="170" y="1515" width="154" height="181" frameX="-32" frameY="-1" frameWidth="197" frameHeight="182"/>
+	<SubTexture name="bombud walk0011" x="344" y="1515" width="155" height="178" frameX="-20" frameY="-2" frameWidth="197" frameHeight="182"/>
+	<SubTexture name="bombud walk0012" x="519" y="1515" width="169" height="176" frameX="-13" frameY="-1" frameWidth="197" frameHeight="182"/>
+	<SubTexture name="bombud walk0013" x="519" y="1515" width="169" height="176" frameX="-13" frameY="-1" frameWidth="197" frameHeight="182"/>
+</TextureAtlas>
